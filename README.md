@@ -1,6 +1,10 @@
 # Simple Fastfetch Theme
 
-A simple theme for fastfetch.
+A simple theme for fastfetch, that´s designed for readability.
+
+<p align="center">
+	<img src="screenshot.png">
+</p>
 
 ## Installation
 
